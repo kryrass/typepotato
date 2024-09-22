@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/typepotato/static/css/main.4bb9dc1a.css",
-    "main.js": "/typepotato/static/js/main.fe8661fc.js",
+    "main.js": "/typepotato/static/js/main.99b2cd87.js",
     "static/js/453.ee2ec725.chunk.js": "/typepotato/static/js/453.ee2ec725.chunk.js",
     "index.html": "/typepotato/index.html",
     "main.4bb9dc1a.css.map": "/typepotato/static/css/main.4bb9dc1a.css.map",
-    "main.fe8661fc.js.map": "/typepotato/static/js/main.fe8661fc.js.map",
+    "main.99b2cd87.js.map": "/typepotato/static/js/main.99b2cd87.js.map",
     "453.ee2ec725.chunk.js.map": "/typepotato/static/js/453.ee2ec725.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bb9dc1a.css",
-    "static/js/main.fe8661fc.js"
+    "static/js/main.99b2cd87.js"
   ]
 }
