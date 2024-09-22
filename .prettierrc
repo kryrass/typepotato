@@ -1,0 +1,12 @@
+{
+  "semi": false, //semikooloneid pole vaja
+  "tabWidth": 2, //Tabide laius 2 tühikut
+  "printWidth": 80, //joonele mahutab 80 karakterit
+  "singleQuote": false, //"" asemel kasutada ''
+  "jsxSingleQuote": false, //sama mis ülemine
+  "bracketSpacing": true, //kirjutades {} sulgusdesse tulevad objektide ja sulgude vahele tühikuf
+  "bracketSameLine": false, //teemantsulg ei pea olema element viimasel real vaid võib olla üksi
+  "trailingComma": "all", //koma tuleb peale viimast rida objektis
+  "arrowParens": "avoid", // arrow functionil ei ole sulge ümber
+  "singleAttributePerLine": true //üks atribuut ühel real
+}
