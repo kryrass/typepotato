@@ -4,7 +4,7 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 import {
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   Route,
   RouterProvider,
@@ -14,13 +14,12 @@ import MyForm from "./components/Login";
 import About from "./components/About";
 import Home from "./routes/Home";
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
       <Route index element={<Home />} />
       <Route path="/form" element={<MyForm />} />
       <Route path="/about" element={<About name="Kryslin" />} />
-      <Route path="/contact" element={<h1>Contact</h1>} />
     </Route>
   )
 );
